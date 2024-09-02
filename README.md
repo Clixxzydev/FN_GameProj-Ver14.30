@@ -19,4 +19,4 @@ Now launch the Project by launching the FortniteGame.uproject
 
 Join the discord if you need help!
 
-link: https://discord.gg/VdzhVAg8
+[Discord](https://discord.gg/VdzhVAg8)
