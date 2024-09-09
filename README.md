@@ -2,7 +2,7 @@
  Fortnite Modding Ue Project
 
 
-Download Ue build here: https://github.com/Clixxzydev/Unreal-Engine
+Download Ue build [here](https://github.com/Clixxzydev/Unreal-Engine)
 
 # Installation
 
@@ -19,4 +19,4 @@ Now launch the Project by launching the FortniteGame.uproject
 
 Join the discord if you need help!
 
-link: https://discord.gg/VdzhVAg8
+[Discord](https://discord.gg/VdzhVAg8)
